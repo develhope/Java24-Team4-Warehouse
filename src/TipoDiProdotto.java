@@ -1,5 +1,5 @@
 public enum TipoDiProdotto {
-    CELLULARI,
+    SMARTPHONE,
     TABLET,
     NOTEBOOK,
 }
